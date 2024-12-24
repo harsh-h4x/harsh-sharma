@@ -63,4 +63,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-h4x&show_icons=true&locale=en" alt="harsh-h4x" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-h4x&" alt="harsh-h4x" /></p> according to this  give ,e the git bio 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-h4x&" alt="harsh-h4x" /></p>
