@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/31867166/196738604-b9b383b9-f5db-4285-8137-1f04be45a117.gif)](https://HarshSharma.io)
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
-<h3 align="center">A passionate coder, developer , penatrationtester , from India O_O</h3>
+<h3 align="center">A passionate coder, developer , penetration tester , from India O_O</h3>
 <img align="right" alt="Coding" width "450" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-h4x&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-h4x" /> </p>
